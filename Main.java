@@ -1,5 +1,6 @@
 public class Main{
     public static void main(String[] args) {
-        System.out.println("Memories");
+        Singleton Max = Singleton.getInstance("Text");
+        Max.printData();
     }
 }
