@@ -2,7 +2,6 @@
 
 == Wichtige Sachen für meinen Arbeitskollegen
 
-- William, lese dir die Implementation von dem Singletonverfahren entweder [hier](https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm) + oder in dem sich unten befindlichen Video
-
+- William, lese dir die Implementation von dem Singletonverfahren entweder https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm[link] + 
 
 video::tSZn4wkBIu8[youtube]
